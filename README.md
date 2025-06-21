@@ -4,17 +4,18 @@ Hi, I'm a **Data Scientist** with a strong foundation in analytics, software sys
 
 With experience across **data engineering, DevOps, and policy research**, I’m passionate about solving real-world problems at the intersection of **technology, society, and sustainability**.
 
-Currently based in **Oslo, Norway** — open to **collaboration, learning**, and **impactful innovation**.
+Currently based in **Oslo, Norway** open to **collaboration, learning**, and **impactful innovation**.
 
 ---
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kofijoo)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)  
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kofijoo)  
+[![Credly](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
+[![Portfolio](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://kofijoo.github.io/)  
+[![Resume1](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)
+[![Resume2](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://kofijoo.github.io/myresume.github.io/)
 
 ---
 
@@ -93,12 +94,8 @@ Currently based in **Oslo, Norway** — open to **collaboration, learning**, and
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaagyekum21@gmail.com)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://kofijoo.github.io)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://kofijoo.github.io/joshua.github.io)
+[![EMAIL](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaagyekum21@gmail.com)  
+[![CHECK ME OUT](https://img.shields.io/badge/Check_Me_Out-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://kofijoo.github.io)  
+[![RESUME](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=paypal&logoColor=white)](https://kofijoo.github.io/joshua.github.io)
 
 ---
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Kofijoo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
