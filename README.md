@@ -15,7 +15,6 @@ Currently based in **Oslo, Norway** open to **collaboration, learning**, and **i
 [![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kofijoo.github.io/)  
 [![Human Resource](https://img.shields.io/badge/Human_Resource-000000?style=for-the-badge&logo=Human_Resource&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)
-
 [![Systems_Admin](https://img.shields.io/badge/Systems_Admin-000000?style=for-the-badge&logo=Systems_Admin&logoColor=white)](https://kofijoo.github.io/myresume.github.io/)
 
 ---
