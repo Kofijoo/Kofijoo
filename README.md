@@ -12,10 +12,10 @@ Currently based in **Oslo, Norway** open to **collaboration, learning**, and **i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kofijoo)  
-[![Credly](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
-[![Portfolio](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://kofijoo.github.io/)  
-[![Resume1](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)
-[![Resume2](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://kofijoo.github.io/myresume.github.io/)
+[![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kofijoo.github.io/)  
+[![Resume1](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)
+[![Resume2](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=Resume&logoColor=white)](https://kofijoo.github.io/myresume.github.io/)
 
 ---
 
