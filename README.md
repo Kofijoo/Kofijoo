@@ -11,7 +11,7 @@ Currently based in **Oslo, Norway** open to **collaboration, learning**, and **i
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-[![Human Resource](https://img.shields.io/badge/Human_Resource-000000?style=for-the-badge&logo=Human_Resource&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)
+[![Human Resource](https://img.shields.io/badge/Human_Resource-000000?style=for-the-badge&logo=Human_Resource&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kofijoo)  
 [![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kofijoo.github.io/)  
