@@ -78,6 +78,32 @@ I currently live in **Oslo, Norway** and hold a **permanent residence** and **va
 
 ---
 
+## Featured Projects
+
+### [CloudClassroom](#)  
+*Containerized LMS with Kubernetes and Docker – SCORM compliant and scalable to 10,000+ users*
+
+### [EduAnalytics Pro](#)  
+*Python-based dashboard for educational performance tracking – reduced student dropout by 30%*
+
+### [NorskLær](#)  
+*AI-driven language learning platform for Norwegian – includes speech recognition and cultural learning*
+
+---
+
+## Certifications & Qualifications
+
+- **M.Ed. in Educational Technology** – Huzhou University, China  
+- **MSc in International Relations** – NMBU, Norway  
+- **B.Ed. in Early Childhood Education** – First Class Honours  
+- **TEFL Certificate (120 hrs)** – High Distinction   
+- **W3Schools Certifications** – Python, Data Science, SQL, Backend, Git  
+- **☁AWS Cloud Essentials & Educate 101**  
+- **Power BI Essentials 2024**  
+- **ChatGPT Prompt Engineering – DeepLearning.AI**
+
+---
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kofijoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
@@ -98,10 +124,3 @@ I currently live in **Oslo, Norway** and hold a **permanent residence** and **va
 
 ---
 
-## Contact
-
-[![EMAIL](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuaagyekum21@gmail.com)  
-[![CHECK ME OUT](https://img.shields.io/badge/Check_Me_Out-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://kofijoo.github.io)  
-[![DEVOPS](https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=DEVOPS&logoColor=white)](https://kofijoo.github.io/joshua.github.io)
-
----
