@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Joshua Agyekum
+## Hi, I'm Joshua Agyekum
 
 **Educational Technology Developer** | Oslo, Norway  
 Passionate about creating impactful digital learning experiences and scalable EdTech platforms.
 
 ---
-## 🧠 About Me
+## About Me
 
 I’m an EdTech developer with a Master’s in **Education Technology** and over 5 years of experience building interactive learning systems. My expertise lies in LMS development, digital pedagogy, cloud infrastructure for education, and multilingual learning platforms. I bring a unique blend of **instructional design** and **technical development**, enabling me to build learner-focused, scalable EdTech tools.
 
@@ -15,11 +15,9 @@ I currently live in **Oslo, Norway** and hold a **permanent residence** and **va
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-agyekum/)  
-[![Human Resource](https://img.shields.io/badge/Human_Resource-000000?style=for-the-badge&logo=Human_Resource&logoColor=white)](https://kofijoo.github.io/joshua.github.io/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kofijoo)  
 [![Credly](https://img.shields.io/badge/Credly-000000?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/joshua-agyekum.7b55a7d0)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kofijoo.github.io/)  
-[![Systems_Admin](https://img.shields.io/badge/Systems_Admin-000000?style=for-the-badge&logo=Systems_Admin&logoColor=white)](https://kofijoo.github.io/myresume.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://kofijoo.github.io/edtech.github.io/)
 
 ---
 
