@@ -24,51 +24,55 @@ I currently live in **Oslo, Norway** and hold a **permanent residence** and **va
 ## Tech Stack
 
 <details>
-<summary>Languages</summary>
+<summary>LMS & EdTech Platforms</summary>
+
+![Moodle](https://img.shields.io/badge/Moodle-000000?style=for-the-badge&logo=moodle&logoColor=white)  
+![Canvas](https://img.shields.io/badge/Canvas-000000?style=for-the-badge&logo=instructure&logoColor=white)  
+![Google Classroom](https://img.shields.io/badge/Google_Classroom-000000?style=for-the-badge&logo=googleclassroom&logoColor=white)  
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-000000?style=for-the-badge&logo=microsoftteams&logoColor=white)
+
+</details>
+
+<details>
+<summary>Frontend & UI</summary>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</details>
+
+<details>
+<summary>Backend & APIs</summary>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)  
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</details>
-
-<details>
-<summary>Frameworks & Libraries</summary>
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-
-</details>
-
-<details>
-<summary>Databases</summary>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
 
 <details>
 <summary>Cloud & DevOps</summary>
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </details>
 
 <details>
-<summary>Analytics & Tools</summary>
+<summary>Data & Analytics</summary>
 
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)  
+![SPSS](https://img.shields.io/badge/SPSS-000000?style=for-the-badge&logo=ibm&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 </details>
 
