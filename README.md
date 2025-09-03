@@ -8,7 +8,7 @@ Passionate about creating impactful digital learning experiences and scalable Ed
 
 I’m an EdTech developer with a Master’s in **Education Technology** and over 5 years of experience building interactive learning systems. My expertise lies in LMS development, digital pedagogy, cloud infrastructure for education, and multilingual learning platforms. I bring a unique blend of **instructional design** and **technical development**, enabling me to build learner-focused, scalable EdTech tools.
 
-I currently live in **Oslo, Norway** and hold a **permanent residence** and **valid work permit**. I'm also **Norwegian B1-B2 proficient** and fluent in **English and Mandarin (HSK 3)**.
+I currently live in **Oslo, Norway** and hold a **permanent residence** and **valid work permit**. I'm also **Norwegian B1 proficient** and fluent in **English and Mandarin (HSK 3)**.
 
 ---
 
