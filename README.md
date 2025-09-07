@@ -2,6 +2,7 @@
 
 **Educational Technology Developer** | Oslo, Norway  
 Passionate about creating impactful digital learning experiences and scalable EdTech platforms.
+
 **Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
 
 ---
