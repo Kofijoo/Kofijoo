@@ -3,14 +3,13 @@
 **Educational Technology Developer** | Oslo, Norway  
 Passionate about creating impactful digital learning experiences and scalable EdTech platforms.
 
-**Educational Technology Developer** with M.Ed. in EdTech, Norwegian language proficiency (B1), and permanent residence in Oslo. Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
+M.Ed. in EdTech and Norwegian language proficiency (B1). Specialized in Learning Management Systems, AI-powered educational platforms, cloud infrastructure, and data-driven learning analytics with proven track record of scalable EdTech solutions.
 
 ---
 
 ## 📍 Location & Availability
 - **Based in Oslo, Norway** - Permanent residence + valid work permit
 - **Norwegian Language:** B1 certified ([Verify Official Results](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A))
-- **Available for immediate start** - No visa sponsorship required
 - **Contact:** joshuaagyekum21@gmail.com | +47 46399384
 
 ---
@@ -124,7 +123,6 @@ Passionate about creating impactful digital learning experiences and scalable Ed
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 </details>
-
 
 ---
 
@@ -404,7 +402,6 @@ Passionate about creating impactful digital learning experiences and scalable Ed
 - **Data Processing:** Real-time analytics for 18,000+ educational data entries
 
 **Total Impact:** Proven ability to deliver scalable, high-performance educational technology solutions that drive measurable improvements in learning outcomes while optimizing operational costs.
-
 
 ---
 
