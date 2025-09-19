@@ -384,12 +384,6 @@ M.Ed. in EdTech and Norwegian language proficiency (B1). Specialized in Learning
 
 ---
 
-**Ready to contribute to Norway's digital education transformation. Let's discuss how I can add immediate value to your EdTech team and drive measurable improvements in educational outcomes.**
-
-*Available for immediate start - No relocation or visa processing required*
-
----
-
 ## 📈 Quantifiable Business Impact Summary
 
 - **Platform Reliability:** 99.9% uptime achieved across educational platforms
