@@ -14,7 +14,7 @@ M.Ed. in EdTech and Norwegian language proficiency (B1). Specialized in Learning
 
 ---
 
-## 💼 Why Hire Me?
+## Why Hire Me?
 
 ### ✅ Norwegian Market Ready
 - **3+ years living and working in Norway** with cultural integration
