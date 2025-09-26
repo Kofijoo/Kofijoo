@@ -7,7 +7,7 @@ M.Ed. in EdTech and Norwegian language proficiency (B1). Specialized in Learning
 
 ---
 
-## 📍 Location & Availability
+## 📍 Location
 - **Based in Oslo, Norway** - Permanent residence + valid work permit
 - **Norwegian Language:** B1 certified ([Verify Official Results](https://app.vitnemalsportalen.no/vp/shared/CB4FE2E65C384FFD9D37D41C780F362A))
 - **Contact:** joshuaagyekum21@gmail.com | +47 46399384
