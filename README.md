@@ -19,7 +19,7 @@ M.Ed. in EdTech and Norwegian language proficiency (B1). Specialized in Learning
 ### ✅ Norwegian Market Ready
 - **3+ years living and working in Norway** with cultural integration
 - **B1 Norwegian language certification** from Oslo Voksenopplæring
-- **Norwegian workplace experience** demonstrating professional adaptation
+- **Norwegian workplace experience** exhibiting professional adaptation
 - **MSc from Norwegian University of Life Sciences (NMBU)** - Local academic credentials
 - **Understanding of Norwegian education system** and digitalization initiatives
 
